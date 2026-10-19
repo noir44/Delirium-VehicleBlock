@@ -1,0 +1,6 @@
+name=Delirium Vehicle Block
+id=DelVehBlock
+description=Stops the listed modded vehicles (Jeep YJ, M35 trucks, Countach) from spawning in the world. Admins can still spawn them. Build 42.
+poster=poster.png
+author=noir4
+versionMin=42.13

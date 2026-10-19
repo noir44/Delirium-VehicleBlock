@@ -1,0 +1,5 @@
+version=1
+title=Delirium Vehicle Block
+description=Stops the listed modded vehicles (KI5's '92 Jeep Wrangler YJ, '78 M35 series trucks, '78 Countach) from spawning in the world on their own. Admins can still spawn them. Build 42.
+tags=Build 42
+visibility=public
